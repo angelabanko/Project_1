@@ -1,0 +1,115 @@
+Year,Month,City,Cum_Open_Case
+2019,January,Denver,0
+2019,February,Denver,0
+2019,March,Denver,0
+2019,April,Denver,0
+2019,May,Denver,0
+2019,June,Denver,0
+2019,July,Denver,0
+2019,August,Denver,0
+2019,September,Denver,0
+2019,October,Denver,0
+2019,November,Denver,0
+2019,December,Denver,0
+2020,January,Denver,0
+2020,February,Denver,0
+2020,March,Denver,3464
+2020,April,Denver,48624
+2020,May,Denver,139608
+2020,June,Denver,192911
+2020,July,Denver,190427
+2019,January,Washington DC,0
+2019,February,Washington DC,0
+2019,March,Washington DC,0
+2019,April,Washington DC,0
+2019,May,Washington DC,0
+2019,June,Washington DC,0
+2019,July,Washington DC,0
+2019,August,Washington DC,0
+2019,September,Washington DC,0
+2019,October,Washington DC,0
+2019,November,Washington DC,0
+2019,December,Washington DC,0
+2020,January,Washington DC,0
+2020,February,Washington DC,0
+2020,March,Washington DC,2923
+2020,April,Washington DC,70950
+2020,May,Washington DC,215106
+2020,June,Washington DC,291828
+2020,July,Washington DC,261954
+2019,January,Los Angeles,0
+2019,February,Los Angeles,0
+2019,March,Los Angeles,0
+2019,April,Los Angeles,0
+2019,May,Los Angeles,0
+2019,June,Los Angeles,0
+2019,July,Los Angeles,0
+2019,August,Los Angeles,0
+2019,September,Los Angeles,0
+2019,October,Los Angeles,0
+2019,November,Los Angeles,0
+2019,December,Los Angeles,0
+2020,January,Los Angeles,6
+2020,February,Los Angeles,29
+2020,March,Los Angeles,16149
+2020,April,Los Angeles,362305
+2020,May,Los Angeles,1172311
+2020,June,Los Angeles,2295011
+2020,July,Los Angeles,3275327
+2019,January,Philadelphia,0
+2019,February,Philadelphia,0
+2019,March,Philadelphia,0
+2019,April,Philadelphia,0
+2019,May,Philadelphia,0
+2019,June,Philadelphia,0
+2019,July,Philadelphia,0
+2019,August,Philadelphia,0
+2019,September,Philadelphia,0
+2019,October,Philadelphia,0
+2019,November,Philadelphia,0
+2019,December,Philadelphia,0
+2020,January,Philadelphia,0
+2020,February,Philadelphia,0
+2020,March,Philadelphia,5743
+2020,April,Philadelphia,235027
+2020,May,Philadelphia,599386
+2020,June,Philadelphia,734803
+2020,July,Philadelphia,662659
+2019,January,San Francisco,0
+2019,February,San Francisco,0
+2019,March,San Francisco,0
+2019,April,San Francisco,0
+2019,May,San Francisco,0
+2019,June,San Francisco,0
+2019,July,San Francisco,0
+2019,August,San Francisco,0
+2019,September,San Francisco,0
+2019,October,San Francisco,0
+2019,November,San Francisco,0
+2019,December,San Francisco,0
+2020,January,San Francisco,0
+2020,February,San Francisco,62
+2020,March,San Francisco,3096
+2020,April,San Francisco,29980
+2020,May,San Francisco,64550
+2020,June,San Francisco,90185
+2020,July,San Francisco,109741
+2019,January,Seattle,0
+2019,February,Seattle,0
+2019,March,Seattle,0
+2019,April,Seattle,0
+2019,May,Seattle,0
+2019,June,Seattle,0
+2019,July,Seattle,0
+2019,August,Seattle,0
+2019,September,Seattle,0
+2019,October,Seattle,0
+2019,November,Seattle,0
+2019,December,Seattle,0
+2020,January,Seattle,0
+2020,February,Seattle,5
+2020,March,Seattle,23455
+2020,April,Seattle,138708
+2020,May,Seattle,228112
+2020,June,Seattle,269119
+2020,July,Seattle,290644
