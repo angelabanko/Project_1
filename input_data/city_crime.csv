@@ -1,110 +1,109 @@
-Year,Month,City,Non-Violent,Violent,Change in Non-Violent Crime vs 2019,Change in Violent Crime vs 2019
-2019,January,Philadelphia,9023,2995,,
-2019,February,Philadelphia,8056,2819,,
-2019,March,Philadelphia,8926,3269,,
-2019,April,Philadelphia,9799,3530,,
-2019,May,Philadelphia,10676,3782,,
-2019,June,Philadelphia,10993,3475,,
-2019,July,Philadelphia,11700,3465,,
-2019,August,Philadelphia,11464,3498,,
-2019,September,Philadelphia,11003,3613,,
-2019,October,Philadelphia,10559,3912,,
-2019,November,Philadelphia,8887,3105,,
-2019,December,Philadelphia,9257,3281,,
-2020,January,Philadelphia,9584,3477,0.062174443,0.160934891
-2020,February,Philadelphia,9290,3404,0.153177756,0.207520397
-2020,March,Philadelphia,8070,3139,-0.095899619,-0.039767513
-2020,April,Philadelphia,7200,2432,-0.265231146,-0.311048159
-2020,May,Philadelphia,9729,3106,-0.088703634,-0.178741407
-2020,June,Philadelphia,7884,3276,-0.282816338,-0.057266187
-2020,July,Philadelphia,5551,2498,-0.525555556,-0.279076479
-2019,January,Los Angeles,13338,4922,,
-2019,February,Los Angeles,11834,4350,,
-2019,March,Los Angeles,13301,5437,,
-2019,April,Los Angeles,12775,5060,,
-2019,May,Los Angeles,13100,5460,,
-2019,June,Los Angeles,12606,5637,,
-2019,July,Los Angeles,13284,5695,,
-2019,August,Los Angeles,13216,5606,,
-2019,September,Los Angeles,12519,5358,,
-2019,October,Los Angeles,12625,5429,,
-2019,November,Los Angeles,12332,4735,,
-2019,December,Los Angeles,12939,4888,,
-2020,January,Los Angeles,12718,4960,-0.046483731,0.007720439
-2020,February,Los Angeles,12147,4706,0.026449214,0.08183908
-2020,March,Los Angeles,11093,4387,-0.166002556,-0.193121207
-2020,April,Los Angeles,10943,4194,-0.143405088,-0.171146245
-2020,May,Los Angeles,11857,4727,-0.094885496,-0.134249084
-2020,June,Los Angeles,11183,4829,-0.112882754,-0.143338655
-2019,January,Denver,6935,630,,
-2019,February,Denver,6076,499,,
-2019,March,Denver,6473,585,,
-2019,April,Denver,6558,656,,
-2019,May,Denver,6840,710,,
-2019,June,Denver,6992,743,,
-2019,July,Denver,7410,754,,
-2019,August,Denver,7546,829,,
-2019,September,Denver,7123,788,,
-2019,October,Denver,6928,641,,
-2019,November,Denver,6437,646,,
-2019,December,Denver,6442,624,,
-2020,January,Denver,7034,632,0.014275415,0.003174603
-2020,February,Denver,6289,596,0.035055958,0.194388778
-2020,March,Denver,5481,566,-0.15325197,-0.032478632
-2020,April,Denver,4848,509,-0.260750229,-0.224085366
-2020,May,Denver,6047,660,-0.115935673,-0.070422535
-2020,June,Denver,5918,718,-0.153604119,-0.033647376
-2019,January,San Francisco,6883,873,,
-2019,February,San Francisco,6277,711,,
-2019,March,San Francisco,6671,964,,
-2019,April,San Francisco,6845,897,,
-2019,May,San Francisco,6890,971,,
-2019,June,San Francisco,6533,974,,
-2019,July,San Francisco,6955,958,,
-2019,August,San Francisco,7225,1050,,
-2019,September,San Francisco,6884,946,,
-2019,October,San Francisco,7054,951,,
-2019,November,San Francisco,6606,866,,
-2019,December,San Francisco,6461,834,,
-2020,January,San Francisco,6459,778,-0.061601046,-0.10882016
-2020,February,San Francisco,6292,863,0.002389677,0.213783404
-2020,March,San Francisco,5460,742,-0.181532004,-0.230290456
-2020,April,San Francisco,4920,613,-0.281227173,-0.316610925
-2020,May,San Francisco,5963,699,-0.134542816,-0.280123584
-2020,June,San Francisco,5553,697,-0.150007653,-0.284394251
-2019,January,Seattle,5195,1097,,
-2019,February,Seattle,3771,899,,
-2019,March,Seattle,4685,1114,,
-2019,April,Seattle,4737,1074,,
-2019,May,Seattle,4561,1208,,
-2019,June,Seattle,4551,1107,,
-2019,July,Seattle,5014,1284,,
-2019,August,Seattle,5120,1220,,
-2019,September,Seattle,4737,1100,,
-2019,October,Seattle,4871,1157,,
-2019,November,Seattle,4782,1088,,
-2019,December,Seattle,4613,1111,,
-2020,January,Seattle,4684,1105,-0.098363811,0.007292616
-2020,February,Seattle,4337,964,0.150092814,0.072302558
-2020,March,Seattle,5544,997,0.183351121,-0.10502693
-2020,April,Seattle,5166,941,0.090563648,-0.123836127
-2020,May,Seattle,10521,1036,1.30673098,-0.142384106
-2020,June,Seattle,3604,974,-0.208086135,-0.120144535
-2019,January,Washington DC,2412,328,,
-2019,February,Washington DC,2060,252,,
-2019,March,Washington DC,2180,258,,
-2019,April,Washington DC,2248,321,,
-2019,May,Washington DC,2325,391,,
-2019,June,Washington DC,2461,400,,
-2019,July,Washington DC,2651,388,,
-2019,August,Washington DC,2698,394,,
-2019,September,Washington DC,2668,398,,
-2019,October,Washington DC,2843,381,,
-2019,November,Washington DC,2546,353,,
-2019,December,Washington DC,2642,311,,
-2020,January,Washington DC,2799,150,0.160447761,-0.542682927
-2020,February,Washington DC,2394,147,0.162135922,-0.416666667
-2020,March,Washington DC,2046,138,-0.06146789,-0.465116279
-2020,April,Washington DC,1517,124,-0.325177936,-0.613707165
-2020,May,Washington DC,1649,195,-0.290752688,-0.501278772
-2020,June,Washington DC,2077,192,-0.156034132,-0.52
+Month,City,Non-Violent,Violent,Change in Non-Violent Crime vs 2019,Change in Violent Crime vs 2019
+Jan-19,Philadelphia,9023,2995,,
+Feb-19,Philadelphia,8056,2819,,
+Mar-19,Philadelphia,8926,3269,,
+Apr-19,Philadelphia,9799,3530,,
+May-19,Philadelphia,10676,3782,,
+Jun-19,Philadelphia,10993,3475,,
+Jul-19,Philadelphia,11700,3465,,
+Aug-19,Philadelphia,11464,3498,,
+Sep-19,Philadelphia,11003,3613,,
+Oct-19,Philadelphia,10559,3912,,
+Nov-19,Philadelphia,8887,3105,,
+Dec-19,Philadelphia,9257,3281,,
+Jan-20,Philadelphia,9584,3477,0.062174443,0.160934891
+Feb-20,Philadelphia,9290,3404,0.153177756,0.207520397
+Mar-20,Philadelphia,8070,3139,-0.095899619,-0.039767513
+Apr-20,Philadelphia,7200,2432,-0.265231146,-0.311048159
+May-20,Philadelphia,9729,3106,-0.088703634,-0.178741407
+Jun-20,Philadelphia,7884,3276,-0.282816338,-0.057266187
+Jan-19,Los Angeles,13338,4922,,
+Feb-19,Los Angeles,11834,4350,,
+Mar-19,Los Angeles,13301,5437,,
+Apr-19,Los Angeles,12775,5060,,
+May-19,Los Angeles,13100,5460,,
+Jun-19,Los Angeles,12606,5637,,
+Jul-19,Los Angeles,13284,5695,,
+Aug-19,Los Angeles,13216,5606,,
+Sep-19,Los Angeles,12519,5358,,
+Oct-19,Los Angeles,12625,5429,,
+Nov-19,Los Angeles,12332,4735,,
+Dec-19,Los Angeles,12939,4888,,
+Jan-20,Los Angeles,12718,4960,-0.046483731,0.007720439
+Feb-20,Los Angeles,12147,4706,0.026449214,0.08183908
+Mar-20,Los Angeles,11093,4387,-0.166002556,-0.193121207
+Apr-20,Los Angeles,10943,4194,-0.143405088,-0.171146245
+May-20,Los Angeles,11857,4727,-0.094885496,-0.134249084
+Jun-20,Los Angeles,11183,4829,-0.112882754,-0.143338655
+Jan-19,Denver,6935,630,,
+Feb-19,Denver,6076,499,,
+Mar-19,Denver,6473,585,,
+Apr-19,Denver,6558,656,,
+May-19,Denver,6840,710,,
+Jun-19,Denver,6992,743,,
+Jul-19,Denver,7410,754,,
+Aug-19,Denver,7546,829,,
+Sep-19,Denver,7123,788,,
+Oct-19,Denver,6928,641,,
+Nov-19,Denver,6437,646,,
+Dec-19,Denver,6442,624,,
+Jan-20,Denver,7034,632,0.014275415,0.003174603
+Feb-20,Denver,6289,596,0.035055958,0.194388778
+Mar-20,Denver,5481,566,-0.15325197,-0.032478632
+Apr-20,Denver,4848,509,-0.260750229,-0.224085366
+May-20,Denver,6047,660,-0.115935673,-0.070422535
+Jun-20,Denver,5918,718,-0.153604119,-0.033647376
+Jan-19,San Francisco,6883,873,,
+Feb-19,San Francisco,6277,711,,
+Mar-19,San Francisco,6671,964,,
+Apr-19,San Francisco,6845,897,,
+May-19,San Francisco,6890,971,,
+Jun-19,San Francisco,6533,974,,
+Jul-19,San Francisco,6955,958,,
+Aug-19,San Francisco,7225,1050,,
+Sep-19,San Francisco,6884,946,,
+Oct-19,San Francisco,7054,951,,
+Nov-19,San Francisco,6606,866,,
+Dec-19,San Francisco,6461,834,,
+Jan-20,San Francisco,6459,778,-0.061601046,-0.10882016
+Feb-20,San Francisco,6292,863,0.002389677,0.213783404
+Mar-20,San Francisco,5460,742,-0.181532004,-0.230290456
+Apr-20,San Francisco,4920,613,-0.281227173,-0.316610925
+May-20,San Francisco,5963,699,-0.134542816,-0.280123584
+Jun-20,San Francisco,5553,697,-0.150007653,-0.284394251
+Jan-19,Seattle,5195,1097,,
+Feb-19,Seattle,3771,899,,
+Mar-19,Seattle,4685,1114,,
+Apr-19,Seattle,4737,1074,,
+May-19,Seattle,4561,1208,,
+Jun-19,Seattle,4551,1107,,
+Jul-19,Seattle,5014,1284,,
+Aug-19,Seattle,5120,1220,,
+Sep-19,Seattle,4737,1100,,
+Oct-19,Seattle,4871,1157,,
+Nov-19,Seattle,4782,1088,,
+Dec-19,Seattle,4613,1111,,
+Jan-20,Seattle,4684,1105,-0.098363811,0.007292616
+Feb-20,Seattle,4337,964,0.150092814,0.072302558
+Mar-20,Seattle,5544,997,0.183351121,-0.10502693
+Apr-20,Seattle,5166,941,0.090563648,-0.123836127
+May-20,Seattle,10521,1036,1.30673098,-0.142384106
+Jun-20,Seattle,3604,974,-0.208086135,-0.120144535
+Jan-19,Washington DC,2412,328,,
+Feb-19,Washington DC,2060,252,,
+Mar-19,Washington DC,2180,258,,
+Apr-19,Washington DC,2248,321,,
+May-19,Washington DC,2325,391,,
+Jun-19,Washington DC,2461,400,,
+Jul-19,Washington DC,2651,388,,
+Aug-19,Washington DC,2698,394,,
+Sep-19,Washington DC,2668,398,,
+Oct-19,Washington DC,2843,381,,
+Nov-19,Washington DC,2546,353,,
+Dec-19,Washington DC,2642,311,,
+Jan-20,Washington DC,2799,150,0.160447761,-0.542682927
+Feb-20,Washington DC,2394,147,0.162135922,-0.416666667
+Mar-20,Washington DC,2046,138,-0.06146789,-0.465116279
+Apr-20,Washington DC,1517,124,-0.325177936,-0.613707165
+May-20,Washington DC,1649,195,-0.290752688,-0.501278772
+Jun-20,Washington DC,2077,192,-0.156034132,-0.52
