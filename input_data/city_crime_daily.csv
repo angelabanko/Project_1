@@ -1,0 +1,733 @@
+Date,City,Non-Violent Count,Daily Non-Violent Change,Daily Non-Violent % Change,Violent Count,Daily Violent Change,Daily Violent % Change
+1-Mar,Philadelphia,242,0,0.0%,99,0,0.0%
+2-Mar,Philadelphia,327,85,35.1%,110,11,11.1%
+3-Mar,Philadelphia,319,-8,-2.4%,102,-8,-7.3%
+4-Mar,Philadelphia,312,-7,-2.2%,119,17,16.7%
+5-Mar,Philadelphia,347,35,11.2%,151,32,26.9%
+6-Mar,Philadelphia,287,-60,-17.3%,105,-46,-30.5%
+7-Mar,Philadelphia,296,9,3.1%,91,-14,-13.3%
+8-Mar,Philadelphia,256,-40,-13.5%,91,0,0.0%
+9-Mar,Philadelphia,334,78,30.5%,131,40,44.0%
+10-Mar,Philadelphia,352,18,5.4%,149,18,13.7%
+11-Mar,Philadelphia,355,3,0.9%,134,-15,-10.1%
+12-Mar,Philadelphia,335,-20,-5.6%,124,-10,-7.5%
+13-Mar,Philadelphia,307,-28,-8.4%,101,-23,-18.5%
+14-Mar,Philadelphia,325,18,5.9%,98,-3,-3.0%
+15-Mar,Philadelphia,227,-98,-30.2%,121,23,23.5%
+16-Mar,Philadelphia,279,52,22.9%,102,-19,-15.7%
+17-Mar,Philadelphia,261,-18,-6.5%,88,-14,-13.7%
+18-Mar,Philadelphia,230,-31,-11.9%,96,8,9.1%
+19-Mar,Philadelphia,262,32,13.9%,97,1,1.0%
+20-Mar,Philadelphia,228,-34,-13.0%,97,0,0.0%
+21-Mar,Philadelphia,236,8,3.5%,89,-8,-8.2%
+22-Mar,Philadelphia,158,-78,-33.1%,89,0,0.0%
+23-Mar,Philadelphia,182,24,15.2%,65,-24,-27.0%
+24-Mar,Philadelphia,238,56,30.8%,100,35,53.8%
+25-Mar,Philadelphia,224,-14,-5.9%,71,-29,-29.0%
+26-Mar,Philadelphia,245,21,9.4%,98,27,38.0%
+27-Mar,Philadelphia,208,-37,-15.1%,84,-14,-14.3%
+28-Mar,Philadelphia,160,-48,-23.1%,57,-27,-32.1%
+29-Mar,Philadelphia,135,-25,-15.6%,81,24,42.1%
+30-Mar,Philadelphia,233,98,72.6%,101,20,24.7%
+31-Mar,Philadelphia,170,-63,-27.0%,98,-3,-3.0%
+1-Apr,Philadelphia,200,30,17.6%,93,-5,-5.1%
+2-Apr,Philadelphia,274,74,37.0%,74,-19,-20.4%
+3-Apr,Philadelphia,233,-41,-15.0%,76,2,2.7%
+4-Apr,Philadelphia,237,4,1.7%,83,7,9.2%
+5-Apr,Philadelphia,202,-35,-14.8%,69,-14,-16.9%
+6-Apr,Philadelphia,278,76,37.6%,91,22,31.9%
+7-Apr,Philadelphia,259,-19,-6.8%,81,-10,-11.0%
+8-Apr,Philadelphia,227,-32,-12.4%,87,6,7.4%
+9-Apr,Philadelphia,239,12,5.3%,79,-8,-9.2%
+10-Apr,Philadelphia,241,2,0.8%,81,2,2.5%
+11-Apr,Philadelphia,204,-37,-15.4%,72,-9,-11.1%
+12-Apr,Philadelphia,179,-25,-12.3%,77,5,6.9%
+13-Apr,Philadelphia,200,21,11.7%,86,9,11.7%
+14-Apr,Philadelphia,245,45,22.5%,77,-9,-10.5%
+15-Apr,Philadelphia,262,17,6.9%,81,4,5.2%
+16-Apr,Philadelphia,246,-16,-6.1%,70,-11,-13.6%
+17-Apr,Philadelphia,240,-6,-2.4%,88,18,25.7%
+18-Apr,Philadelphia,235,-5,-2.1%,82,-6,-6.8%
+19-Apr,Philadelphia,194,-41,-17.4%,93,11,13.4%
+20-Apr,Philadelphia,250,56,28.9%,98,5,5.4%
+21-Apr,Philadelphia,270,20,8.0%,83,-15,-15.3%
+22-Apr,Philadelphia,256,-14,-5.2%,73,-10,-12.0%
+23-Apr,Philadelphia,250,-6,-2.3%,70,-3,-4.1%
+24-Apr,Philadelphia,253,3,1.2%,63,-7,-10.0%
+25-Apr,Philadelphia,252,-1,-0.4%,89,26,41.3%
+26-Apr,Philadelphia,193,-59,-23.4%,73,-16,-18.0%
+27-Apr,Philadelphia,274,81,42.0%,79,6,8.2%
+28-Apr,Philadelphia,279,5,1.8%,99,20,25.3%
+29-Apr,Philadelphia,289,10,3.6%,91,-8,-8.1%
+30-Apr,Philadelphia,239,-50,-17.3%,74,-17,-18.7%
+1-May,Philadelphia,281,42,17.6%,101,27,36.5%
+2-May,Philadelphia,274,-7,-2.5%,95,-6,-5.9%
+3-May,Philadelphia,233,-41,-15.0%,108,13,13.7%
+4-May,Philadelphia,287,54,23.2%,98,-10,-9.3%
+5-May,Philadelphia,306,19,6.6%,94,-4,-4.1%
+6-May,Philadelphia,302,-4,-1.3%,100,6,6.4%
+7-May,Philadelphia,345,43,14.2%,92,-8,-8.0%
+8-May,Philadelphia,332,-13,-3.8%,101,9,9.8%
+9-May,Philadelphia,238,-94,-28.3%,90,-11,-10.9%
+10-May,Philadelphia,203,-35,-14.7%,88,-2,-2.2%
+11-May,Philadelphia,328,125,61.6%,96,8,9.1%
+12-May,Philadelphia,352,24,7.3%,92,-4,-4.2%
+13-May,Philadelphia,364,12,3.4%,88,-4,-4.3%
+14-May,Philadelphia,354,-10,-2.7%,96,8,9.1%
+15-May,Philadelphia,332,-22,-6.2%,100,4,4.2%
+16-May,Philadelphia,268,-64,-19.3%,104,4,4.0%
+17-May,Philadelphia,247,-21,-7.8%,118,14,13.5%
+18-May,Philadelphia,318,71,28.7%,104,-14,-11.9%
+19-May,Philadelphia,394,76,23.9%,98,-6,-5.8%
+20-May,Philadelphia,356,-38,-9.6%,104,6,6.1%
+21-May,Philadelphia,340,-16,-4.5%,83,-21,-20.2%
+22-May,Philadelphia,318,-22,-6.5%,86,3,3.6%
+23-May,Philadelphia,281,-37,-11.6%,99,13,15.1%
+24-May,Philadelphia,227,-54,-19.2%,107,8,8.1%
+25-May,Philadelphia,250,23,10.1%,98,-9,-8.4%
+26-May,Philadelphia,361,111,44.4%,116,18,18.4%
+27-May,Philadelphia,328,-33,-9.1%,111,-5,-4.3%
+28-May,Philadelphia,370,42,12.8%,124,13,11.7%
+29-May,Philadelphia,319,-51,-13.8%,127,3,2.4%
+30-May,Philadelphia,271,-48,-15.0%,95,-32,-25.2%
+31-May,Philadelphia,550,279,103.0%,93,-2,-2.1%
+1-Jun,Philadelphia,781,231,42.0%,117,24,25.8%
+2-Jun,Philadelphia,477,-304,-38.9%,113,-4,-3.4%
+3-Jun,Philadelphia,316,-161,-33.8%,90,-23,-20.4%
+4-Jun,Philadelphia,283,-33,-10.4%,109,19,21.1%
+5-Jun,Philadelphia,244,-39,-13.8%,106,-3,-2.8%
+6-Jun,Philadelphia,199,-45,-18.4%,76,-30,-28.3%
+7-Jun,Philadelphia,193,-6,-3.0%,117,41,53.9%
+8-Jun,Philadelphia,286,93,48.2%,109,-8,-6.8%
+9-Jun,Philadelphia,285,-1,-0.3%,88,-21,-19.3%
+10-Jun,Philadelphia,264,-21,-7.4%,111,23,26.1%
+11-Jun,Philadelphia,284,20,7.6%,100,-11,-9.9%
+12-Jun,Philadelphia,263,-21,-7.4%,123,23,23.0%
+13-Jun,Philadelphia,179,-84,-31.9%,93,-30,-24.4%
+14-Jun,Philadelphia,186,7,3.9%,93,0,0.0%
+15-Jun,Philadelphia,274,88,47.3%,91,-2,-2.2%
+16-Jun,Philadelphia,291,17,6.2%,113,22,24.2%
+17-Jun,Philadelphia,244,-47,-16.2%,127,14,12.4%
+18-Jun,Philadelphia,234,-10,-4.1%,104,-23,-18.1%
+19-Jun,Philadelphia,225,-9,-3.8%,122,18,17.3%
+20-Jun,Philadelphia,187,-38,-16.9%,106,-16,-13.1%
+21-Jun,Philadelphia,167,-20,-10.7%,108,2,1.9%
+22-Jun,Philadelphia,258,91,54.5%,116,8,7.4%
+23-Jun,Philadelphia,283,25,9.7%,142,26,22.4%
+24-Jun,Philadelphia,225,-58,-20.5%,126,-16,-11.3%
+25-Jun,Philadelphia,226,1,0.4%,127,1,0.8%
+26-Jun,Philadelphia,209,-17,-7.5%,114,-13,-10.2%
+27-Jun,Philadelphia,158,-51,-24.4%,128,14,12.3%
+28-Jun,Philadelphia,161,3,1.9%,103,-25,-19.5%
+29-Jun,Philadelphia,242,81,50.3%,89,-14,-13.6%
+30-Jun,Philadelphia,260,18,7.4%,115,26,29.2%
+1-Mar,Los Angeles,434,0,0.00%,186,0,0.00%
+2-Mar,Los Angeles,438,4,0.92%,159,-27,-14.52%
+3-Mar,Los Angeles,391,-47,-10.73%,170,11,6.92%
+4-Mar,Los Angeles,353,-38,-9.72%,157,-13,-7.65%
+5-Mar,Los Angeles,415,62,17.56%,136,-21,-13.38%
+6-Mar,Los Angeles,397,-18,-4.34%,178,42,30.88%
+7-Mar,Los Angeles,356,-41,-10.33%,148,-30,-16.85%
+8-Mar,Los Angeles,366,10,2.81%,172,24,16.22%
+9-Mar,Los Angeles,368,2,0.55%,143,-29,-16.86%
+10-Mar,Los Angeles,416,48,13.04%,124,-19,-13.29%
+11-Mar,Los Angeles,429,13,3.13%,147,23,18.55%
+12-Mar,Los Angeles,361,-68,-15.85%,125,-22,-14.97%
+13-Mar,Los Angeles,408,47,13.02%,112,-13,-10.40%
+14-Mar,Los Angeles,352,-56,-13.73%,163,51,45.54%
+15-Mar,Los Angeles,346,-6,-1.70%,191,28,17.18%
+16-Mar,Los Angeles,367,21,6.07%,141,-50,-26.18%
+17-Mar,Los Angeles,330,-37,-10.08%,135,-6,-4.26%
+18-Mar,Los Angeles,310,-20,-6.06%,139,4,2.96%
+19-Mar,Los Angeles,300,-10,-3.23%,110,-29,-20.86%
+20-Mar,Los Angeles,338,38,12.67%,121,11,10.00%
+21-Mar,Los Angeles,286,-52,-15.38%,133,12,9.92%
+22-Mar,Los Angeles,269,-17,-5.94%,138,5,3.76%
+23-Mar,Los Angeles,336,67,24.91%,145,7,5.07%
+24-Mar,Los Angeles,324,-12,-3.57%,150,5,3.45%
+25-Mar,Los Angeles,358,34,10.49%,134,-16,-10.67%
+26-Mar,Los Angeles,333,-25,-6.98%,139,5,3.73%
+27-Mar,Los Angeles,378,45,13.51%,139,0,0.00%
+28-Mar,Los Angeles,325,-53,-14.02%,111,-28,-20.14%
+29-Mar,Los Angeles,291,-34,-10.46%,124,13,11.71%
+30-Mar,Los Angeles,374,83,28.52%,98,-26,-20.97%
+31-Mar,Los Angeles,344,-30,-8.02%,119,21,21.43%
+1-Apr,Los Angeles,386,42,12.21%,146,27,22.69%
+2-Apr,Los Angeles,323,-63,-16.32%,136,-10,-6.85%
+3-Apr,Los Angeles,362,39,12.07%,130,-6,-4.41%
+4-Apr,Los Angeles,303,-59,-16.30%,162,32,24.62%
+5-Apr,Los Angeles,334,31,10.23%,122,-40,-24.69%
+6-Apr,Los Angeles,360,26,7.78%,126,4,3.28%
+7-Apr,Los Angeles,346,-14,-3.89%,118,-8,-6.35%
+8-Apr,Los Angeles,320,-26,-7.51%,109,-9,-7.63%
+9-Apr,Los Angeles,313,-7,-2.19%,95,-14,-12.84%
+10-Apr,Los Angeles,400,87,27.80%,124,29,30.53%
+11-Apr,Los Angeles,377,-23,-5.75%,136,12,9.68%
+12-Apr,Los Angeles,317,-60,-15.92%,142,6,4.41%
+13-Apr,Los Angeles,375,58,18.30%,121,-21,-14.79%
+14-Apr,Los Angeles,360,-15,-4.00%,138,17,14.05%
+15-Apr,Los Angeles,366,6,1.67%,134,-4,-2.90%
+16-Apr,Los Angeles,395,29,7.92%,138,4,2.99%
+17-Apr,Los Angeles,395,0,0.00%,144,6,4.35%
+18-Apr,Los Angeles,390,-5,-1.27%,126,-18,-12.50%
+19-Apr,Los Angeles,362,-28,-7.18%,143,17,13.49%
+20-Apr,Los Angeles,409,47,12.98%,139,-4,-2.80%
+21-Apr,Los Angeles,353,-56,-13.69%,142,3,2.16%
+22-Apr,Los Angeles,358,5,1.42%,143,1,0.70%
+23-Apr,Los Angeles,388,30,8.38%,142,-1,-0.70%
+24-Apr,Los Angeles,375,-13,-3.35%,175,33,23.24%
+25-Apr,Los Angeles,408,33,8.80%,168,-7,-4.00%
+26-Apr,Los Angeles,330,-78,-19.12%,192,24,14.29%
+27-Apr,Los Angeles,405,75,22.73%,140,-52,-27.08%
+28-Apr,Los Angeles,399,-6,-1.48%,184,44,31.43%
+29-Apr,Los Angeles,351,-48,-12.03%,138,-46,-25.00%
+30-Apr,Los Angeles,383,32,9.12%,141,3,2.17%
+1-May,Los Angeles,416,33,8.62%,134,-7,-4.96%
+2-May,Los Angeles,340,-76,-18.27%,178,44,32.84%
+3-May,Los Angeles,336,-4,-1.18%,143,-35,-19.66%
+4-May,Los Angeles,377,41,12.20%,170,27,18.88%
+5-May,Los Angeles,372,-5,-1.33%,149,-21,-12.35%
+6-May,Los Angeles,377,5,1.34%,156,7,4.70%
+7-May,Los Angeles,367,-10,-2.65%,137,-19,-12.18%
+8-May,Los Angeles,374,7,1.91%,149,12,8.76%
+9-May,Los Angeles,397,23,6.15%,141,-8,-5.37%
+10-May,Los Angeles,366,-31,-7.81%,155,14,9.93%
+11-May,Los Angeles,356,-10,-2.73%,118,-37,-23.87%
+12-May,Los Angeles,377,21,5.90%,113,-5,-4.24%
+13-May,Los Angeles,354,-23,-6.10%,137,24,21.24%
+14-May,Los Angeles,373,19,5.37%,130,-7,-5.11%
+15-May,Los Angeles,397,24,6.43%,136,6,4.62%
+16-May,Los Angeles,370,-27,-6.80%,181,45,33.09%
+17-May,Los Angeles,367,-3,-0.81%,169,-12,-6.63%
+18-May,Los Angeles,376,9,2.45%,153,-16,-9.47%
+19-May,Los Angeles,351,-25,-6.65%,109,-44,-28.76%
+20-May,Los Angeles,398,47,13.39%,145,36,33.03%
+21-May,Los Angeles,355,-43,-10.80%,151,6,4.14%
+22-May,Los Angeles,406,51,14.37%,149,-2,-1.32%
+23-May,Los Angeles,376,-30,-7.39%,174,25,16.78%
+24-May,Los Angeles,345,-31,-8.24%,160,-14,-8.05%
+25-May,Los Angeles,346,1,0.29%,165,5,3.13%
+26-May,Los Angeles,360,14,4.05%,138,-27,-16.36%
+27-May,Los Angeles,389,29,8.06%,133,-5,-3.62%
+28-May,Los Angeles,367,-22,-5.66%,141,8,6.02%
+29-May,Los Angeles,479,112,30.52%,213,72,51.06%
+30-May,Los Angeles,598,119,24.84%,273,60,28.17%
+31-May,Los Angeles,395,-203,-33.95%,127,-146,-53.48%
+1-Jun,Los Angeles,450,55,13.92%,198,71,55.91%
+2-Jun,Los Angeles,328,-122,-27.11%,133,-65,-32.83%
+3-Jun,Los Angeles,327,-1,-0.30%,139,6,4.51%
+4-Jun,Los Angeles,308,-19,-5.81%,139,0,0.00%
+5-Jun,Los Angeles,382,74,24.03%,146,7,5.04%
+6-Jun,Los Angeles,318,-64,-16.75%,157,11,7.53%
+7-Jun,Los Angeles,307,-11,-3.46%,154,-3,-1.91%
+8-Jun,Los Angeles,337,30,9.77%,158,4,2.60%
+9-Jun,Los Angeles,335,-2,-0.59%,151,-7,-4.43%
+10-Jun,Los Angeles,359,24,7.16%,152,1,0.66%
+11-Jun,Los Angeles,378,19,5.29%,165,13,8.55%
+12-Jun,Los Angeles,424,46,12.17%,171,6,3.64%
+13-Jun,Los Angeles,353,-71,-16.75%,165,-6,-3.51%
+14-Jun,Los Angeles,359,6,1.70%,170,5,3.03%
+15-Jun,Los Angeles,398,39,10.86%,170,0,0.00%
+16-Jun,Los Angeles,405,7,1.76%,157,-13,-7.65%
+17-Jun,Los Angeles,373,-32,-7.90%,147,-10,-6.37%
+18-Jun,Los Angeles,410,37,9.92%,155,8,5.44%
+19-Jun,Los Angeles,398,-12,-2.93%,161,6,3.87%
+20-Jun,Los Angeles,385,-13,-3.27%,182,21,13.04%
+21-Jun,Los Angeles,373,-12,-3.12%,202,20,10.99%
+22-Jun,Los Angeles,370,-3,-0.80%,175,-27,-13.37%
+23-Jun,Los Angeles,369,-1,-0.27%,153,-22,-12.57%
+24-Jun,Los Angeles,386,17,4.61%,154,1,0.65%
+25-Jun,Los Angeles,430,44,11.40%,182,28,18.18%
+26-Jun,Los Angeles,435,5,1.16%,179,-3,-1.65%
+27-Jun,Los Angeles,370,-65,-14.94%,152,-27,-15.08%
+28-Jun,Los Angeles,345,-25,-6.76%,167,15,9.87%
+29-Jun,Los Angeles,410,65,18.84%,153,-14,-8.38%
+30-Jun,Los Angeles,361,-49,-11.95%,142,-11,-7.19%
+1-Mar,San Francisco,212,0,0.0%,28,0,0.0%
+2-Mar,San Francisco,204,-8,-4%,38,10,36%
+3-Mar,San Francisco,226,22,11%,28,-10,-26%
+4-Mar,San Francisco,218,-8,-4%,21,-7,-25%
+5-Mar,San Francisco,182,-36,-17%,33,12,57%
+6-Mar,San Francisco,225,43,24%,33,0,0%
+7-Mar,San Francisco,185,-40,-18%,30,-3,-9%
+8-Mar,San Francisco,191,6,3%,24,-6,-20%
+9-Mar,San Francisco,246,55,29%,38,14,58%
+10-Mar,San Francisco,198,-48,-20%,31,-7,-18%
+11-Mar,San Francisco,260,62,31%,22,-9,-29%
+12-Mar,San Francisco,209,-51,-20%,28,6,27%
+13-Mar,San Francisco,195,-14,-7%,27,-1,-4%
+14-Mar,San Francisco,174,-21,-11%,31,4,15%
+15-Mar,San Francisco,176,2,1%,24,-7,-23%
+16-Mar,San Francisco,189,13,7%,24,0,0%
+17-Mar,San Francisco,158,-31,-16%,13,-11,-46%
+18-Mar,San Francisco,148,-10,-6%,27,14,108%
+19-Mar,San Francisco,133,-15,-10%,22,-5,-19%
+20-Mar,San Francisco,210,77,58%,19,-3,-14%
+21-Mar,San Francisco,146,-64,-30%,21,2,11%
+22-Mar,San Francisco,134,-12,-8%,21,0,0%
+23-Mar,San Francisco,147,13,10%,24,3,14%
+24-Mar,San Francisco,137,-10,-7%,12,-12,-50%
+25-Mar,San Francisco,167,30,22%,23,11,92%
+26-Mar,San Francisco,139,-28,-17%,15,-8,-35%
+27-Mar,San Francisco,132,-7,-5%,15,0,0%
+28-Mar,San Francisco,131,-1,-1%,21,6,40%
+29-Mar,San Francisco,116,-15,-11%,16,-5,-24%
+30-Mar,San Francisco,132,16,14%,18,2,13%
+31-Mar,San Francisco,140,8,6%,15,-3,-17%
+1-Apr,San Francisco,169,29,21%,17,2,13%
+2-Apr,San Francisco,144,-25,-15%,27,10,59%
+3-Apr,San Francisco,150,6,4%,15,-12,-44%
+4-Apr,San Francisco,130,-20,-13%,17,2,13%
+5-Apr,San Francisco,136,6,5%,13,-4,-24%
+6-Apr,San Francisco,138,2,1%,19,6,46%
+7-Apr,San Francisco,185,47,34%,15,-4,-21%
+8-Apr,San Francisco,157,-28,-15%,25,10,67%
+9-Apr,San Francisco,152,-5,-3%,18,-7,-28%
+10-Apr,San Francisco,164,12,8%,21,3,17%
+11-Apr,San Francisco,182,18,11%,26,5,24%
+12-Apr,San Francisco,179,-3,-2%,21,-5,-19%
+13-Apr,San Francisco,187,8,4%,15,-6,-29%
+14-Apr,San Francisco,196,9,5%,25,10,67%
+15-Apr,San Francisco,196,0,0%,27,2,8%
+16-Apr,San Francisco,150,-46,-23%,24,-3,-11%
+17-Apr,San Francisco,150,0,0%,15,-9,-38%
+18-Apr,San Francisco,152,2,1%,12,-3,-20%
+19-Apr,San Francisco,166,14,9%,27,15,125%
+20-Apr,San Francisco,210,44,27%,28,1,4%
+21-Apr,San Francisco,136,-74,-35%,14,-14,-50%
+22-Apr,San Francisco,166,30,22%,17,3,21%
+23-Apr,San Francisco,159,-7,-4%,20,3,18%
+24-Apr,San Francisco,177,18,11%,32,12,60%
+25-Apr,San Francisco,136,-41,-23%,23,-9,-28%
+26-Apr,San Francisco,191,55,40%,17,-6,-26%
+27-Apr,San Francisco,159,-32,-17%,25,8,47%
+28-Apr,San Francisco,177,18,11%,13,-12,-48%
+29-Apr,San Francisco,174,-3,-2%,21,8,62%
+30-Apr,San Francisco,152,-22,-13%,24,3,14%
+1-May,San Francisco,180,28,18%,21,-3,-13%
+2-May,San Francisco,178,-2,-1%,12,-9,-43%
+3-May,San Francisco,157,-21,-12%,19,7,58%
+4-May,San Francisco,198,41,26%,30,11,58%
+5-May,San Francisco,209,11,6%,31,1,3%
+6-May,San Francisco,160,-49,-23%,23,-8,-26%
+7-May,San Francisco,179,19,12%,20,-3,-13%
+8-May,San Francisco,185,6,3%,23,3,15%
+9-May,San Francisco,168,-17,-9%,14,-9,-39%
+10-May,San Francisco,174,6,4%,11,-3,-21%
+11-May,San Francisco,161,-13,-7%,14,3,27%
+12-May,San Francisco,182,21,13%,18,4,29%
+13-May,San Francisco,182,0,0%,17,-1,-6%
+14-May,San Francisco,181,-1,-1%,22,5,29%
+15-May,San Francisco,190,9,5%,20,-2,-9%
+16-May,San Francisco,189,-1,-1%,26,6,30%
+17-May,San Francisco,189,0,0%,11,-15,-58%
+18-May,San Francisco,198,9,5%,22,11,100%
+19-May,San Francisco,203,5,3%,33,11,50%
+20-May,San Francisco,221,18,9%,23,-10,-30%
+21-May,San Francisco,215,-6,-3%,30,7,30%
+22-May,San Francisco,233,18,8%,31,1,3%
+23-May,San Francisco,170,-63,-27%,28,-3,-10%
+24-May,San Francisco,153,-17,-10%,17,-11,-39%
+25-May,San Francisco,179,26,17%,19,2,12%
+26-May,San Francisco,202,23,13%,30,11,58%
+27-May,San Francisco,163,-39,-19%,18,-12,-40%
+28-May,San Francisco,185,22,13%,25,7,39%
+29-May,San Francisco,188,3,2%,26,1,4%
+30-May,San Francisco,295,107,57%,37,11,42%
+31-May,San Francisco,296,1,0%,28,-9,-24%
+1-Jun,San Francisco,250,-46,-16%,28,0,0%
+2-Jun,San Francisco,194,-56,-22%,26,-2,-7%
+3-Jun,San Francisco,226,32,16%,20,-6,-23%
+4-Jun,San Francisco,186,-40,-18%,28,8,40%
+5-Jun,San Francisco,192,6,3%,20,-8,-29%
+6-Jun,San Francisco,148,-44,-23%,18,-2,-10%
+7-Jun,San Francisco,177,29,20%,23,5,28%
+8-Jun,San Francisco,201,24,14%,16,-7,-30%
+9-Jun,San Francisco,197,-4,-2%,17,1,6%
+10-Jun,San Francisco,184,-13,-7%,21,4,24%
+11-Jun,San Francisco,175,-9,-5%,16,-5,-24%
+12-Jun,San Francisco,219,44,25%,22,6,38%
+13-Jun,San Francisco,145,-74,-34%,26,4,18%
+14-Jun,San Francisco,143,-2,-1%,25,-1,-4%
+15-Jun,San Francisco,198,55,38%,25,0,0%
+16-Jun,San Francisco,188,-10,-5%,28,3,12%
+17-Jun,San Francisco,211,23,12%,20,-8,-29%
+18-Jun,San Francisco,180,-31,-15%,21,1,5%
+19-Jun,San Francisco,214,34,19%,34,13,62%
+20-Jun,San Francisco,164,-50,-23%,14,-20,-59%
+21-Jun,San Francisco,121,-43,-26%,15,1,7%
+22-Jun,San Francisco,166,45,37%,31,16,107%
+23-Jun,San Francisco,164,-2,-1%,22,-9,-29%
+24-Jun,San Francisco,198,34,21%,30,8,36%
+25-Jun,San Francisco,172,-26,-13%,26,-4,-13%
+26-Jun,San Francisco,162,-10,-6%,27,1,4%
+27-Jun,San Francisco,197,35,22%,21,-6,-22%
+28-Jun,San Francisco,178,-19,-10%,18,-3,-14%
+29-Jun,San Francisco,187,9,5%,29,11,61%
+30-Jun,San Francisco,216,29,16%,30,1,3%
+1-Mar,Seattle,228,0,0.0%,48,0,0%
+2-Mar,Seattle,134,-94,-41.2%,25,-23,-47.9%
+3-Mar,Seattle,144,10,7.5%,33,8,32.0%
+4-Mar,Seattle,133,-11,-7.6%,26,-7,-21.2%
+5-Mar,Seattle,148,15,11.3%,43,17,65.4%
+6-Mar,Seattle,172,24,16.2%,32,-11,-25.6%
+7-Mar,Seattle,133,-39,-22.7%,25,-7,-21.9%
+8-Mar,Seattle,629,496,372.9%,26,1,4.0%
+9-Mar,Seattle,149,-480,-76.3%,33,7,26.9%
+10-Mar,Seattle,159,10,6.7%,35,2,6.1%
+11-Mar,Seattle,140,-19,-11.9%,21,-14,-40.0%
+12-Mar,Seattle,152,12,8.6%,30,9,42.9%
+13-Mar,Seattle,161,9,5.9%,35,5,16.7%
+14-Mar,Seattle,159,-2,-1.2%,36,1,2.9%
+15-Mar,Seattle,476,317,199.4%,32,-4,-11.1%
+16-Mar,Seattle,146,-330,-69.3%,35,3,9.4%
+17-Mar,Seattle,109,-37,-25.3%,28,-7,-20.0%
+18-Mar,Seattle,121,12,11.0%,38,10,35.7%
+19-Mar,Seattle,124,3,2.5%,32,-6,-15.8%
+20-Mar,Seattle,146,22,17.7%,31,-1,-3.1%
+21-Mar,Seattle,123,-23,-15.8%,38,7,22.6%
+22-Mar,Seattle,269,146,118.7%,19,-19,-50.0%
+23-Mar,Seattle,140,-129,-48.0%,36,17,89.5%
+24-Mar,Seattle,131,-9,-6.4%,31,-5,-13.9%
+25-Mar,Seattle,124,-7,-5.3%,34,3,9.7%
+26-Mar,Seattle,140,16,12.9%,30,-4,-11.8%
+27-Mar,Seattle,156,16,11.4%,33,3,10.0%
+28-Mar,Seattle,153,-3,-1.9%,30,-3,-9.1%
+29-Mar,Seattle,242,89,58.2%,29,-1,-3.3%
+30-Mar,Seattle,173,-69,-28.5%,36,7,24.1%
+31-Mar,Seattle,130,-43,-24.9%,37,1,2.8%
+1-Apr,Seattle,310,180,138.5%,23,-14,-37.8%
+2-Apr,Seattle,148,-162,-52.3%,39,16,69.6%
+3-Apr,Seattle,162,14,9.5%,33,-6,-15.4%
+4-Apr,Seattle,138,-24,-14.8%,36,3,9.1%
+5-Apr,Seattle,226,88,63.8%,37,1,2.8%
+6-Apr,Seattle,156,-70,-31.0%,26,-11,-29.7%
+7-Apr,Seattle,154,-2,-1.3%,34,8,30.8%
+8-Apr,Seattle,141,-13,-8.4%,29,-5,-14.7%
+9-Apr,Seattle,150,9,6.4%,31,2,6.9%
+10-Apr,Seattle,166,16,10.7%,30,-1,-3.2%
+11-Apr,Seattle,163,-3,-1.8%,40,10,33.3%
+12-Apr,Seattle,186,23,14.1%,23,-17,-42.5%
+13-Apr,Seattle,175,-11,-5.9%,40,17,73.9%
+14-Apr,Seattle,170,-5,-2.9%,31,-9,-22.5%
+15-Apr,Seattle,194,24,14.1%,29,-2,-6.5%
+16-Apr,Seattle,160,-34,-17.5%,22,-7,-24.1%
+17-Apr,Seattle,159,-1,-0.6%,43,21,95.5%
+18-Apr,Seattle,167,8,5.0%,35,-8,-18.6%
+19-Apr,Seattle,170,3,1.8%,39,4,11.4%
+20-Apr,Seattle,158,-12,-7.1%,27,-12,-30.8%
+21-Apr,Seattle,181,23,14.6%,31,4,14.8%
+22-Apr,Seattle,147,-34,-18.8%,27,-4,-12.9%
+23-Apr,Seattle,170,23,15.6%,20,-7,-25.9%
+24-Apr,Seattle,154,-16,-9.4%,32,12,60.0%
+25-Apr,Seattle,153,-1,-0.6%,29,-3,-9.4%
+26-Apr,Seattle,215,62,40.5%,31,2,6.9%
+27-Apr,Seattle,179,-36,-16.7%,37,6,19.4%
+28-Apr,Seattle,160,-19,-10.6%,26,-11,-29.7%
+29-Apr,Seattle,181,21,13.1%,33,7,26.9%
+30-Apr,Seattle,173,-8,-4.4%,28,-5,-15.2%
+1-May,Seattle,483,310,179.2%,49,21,75.0%
+2-May,Seattle,173,-310,-64.2%,31,-18,-36.7%
+3-May,Seattle,294,121,69.9%,30,-1,-3.2%
+4-May,Seattle,259,-35,-11.9%,25,-5,-16.7%
+5-May,Seattle,205,-54,-20.8%,25,0,0.0%
+6-May,Seattle,261,56,27.3%,24,-1,-4.0%
+7-May,Seattle,278,17,6.5%,27,3,12.5%
+8-May,Seattle,391,113,40.6%,33,6,22.2%
+9-May,Seattle,283,-108,-27.6%,38,5,15.2%
+10-May,Seattle,358,75,26.5%,43,5,13.2%
+11-May,Seattle,529,171,47.8%,28,-15,-34.9%
+12-May,Seattle,484,-45,-8.5%,39,11,39.3%
+13-May,Seattle,474,-10,-2.1%,34,-5,-12.8%
+14-May,Seattle,595,121,25.5%,26,-8,-23.5%
+15-May,Seattle,634,39,6.6%,29,3,11.5%
+16-May,Seattle,302,-332,-52.4%,30,1,3.4%
+17-May,Seattle,248,-54,-17.9%,34,4,13.3%
+18-May,Seattle,730,482,194.4%,31,-3,-8.8%
+19-May,Seattle,524,-206,-28.2%,36,5,16.1%
+20-May,Seattle,535,11,2.1%,40,4,11.1%
+21-May,Seattle,438,-97,-18.1%,19,-21,-52.5%
+22-May,Seattle,399,-39,-8.9%,34,15,78.9%
+23-May,Seattle,177,-222,-55.6%,31,-3,-8.8%
+24-May,Seattle,157,-20,-11.3%,38,7,22.6%
+25-May,Seattle,171,14,8.9%,33,-5,-13.2%
+26-May,Seattle,236,65,38.0%,36,3,9.1%
+27-May,Seattle,214,-22,-9.3%,34,-2,-5.6%
+28-May,Seattle,178,-36,-16.8%,31,-3,-8.8%
+29-May,Seattle,180,2,1.1%,42,11,35.5%
+30-May,Seattle,186,6,3.3%,48,6,14.3%
+31-May,Seattle,145,-41,-22.0%,38,-10,-20.8%
+1-Jun,Seattle,189,44,30.3%,33,-5,-13.2%
+2-Jun,Seattle,131,-58,-30.7%,36,3,9.1%
+3-Jun,Seattle,133,2,1.5%,22,-14,-38.9%
+4-Jun,Seattle,123,-10,-7.5%,28,6,27.3%
+5-Jun,Seattle,102,-21,-17.1%,20,-8,-28.6%
+6-Jun,Seattle,109,7,6.9%,33,13,65.0%
+7-Jun,Seattle,97,-12,-11.0%,30,-3,-9.1%
+8-Jun,Seattle,130,33,34.0%,20,-10,-33.3%
+9-Jun,Seattle,107,-23,-17.7%,19,-1,-5.0%
+10-Jun,Seattle,111,4,3.7%,29,10,52.6%
+11-Jun,Seattle,90,-21,-18.9%,23,-6,-20.7%
+12-Jun,Seattle,86,-4,-4.4%,32,9,39.1%
+13-Jun,Seattle,79,-7,-8.1%,30,-2,-6.3%
+14-Jun,Seattle,70,-9,-11.4%,31,1,3.3%
+15-Jun,Seattle,86,16,22.9%,45,14,45.2%
+16-Jun,Seattle,84,-2,-2.3%,29,-16,-35.6%
+17-Jun,Seattle,109,25,29.8%,37,8,27.6%
+18-Jun,Seattle,124,15,13.8%,44,7,18.9%
+19-Jun,Seattle,129,5,4.0%,42,-2,-4.5%
+20-Jun,Seattle,129,0,0.0%,39,-3,-7.1%
+21-Jun,Seattle,126,-3,-2.3%,35,-4,-10.3%
+22-Jun,Seattle,133,7,5.6%,40,5,14.3%
+23-Jun,Seattle,142,9,6.8%,45,5,12.5%
+24-Jun,Seattle,129,-13,-9.2%,28,-17,-37.8%
+25-Jun,Seattle,159,30,23.3%,38,10,35.7%
+26-Jun,Seattle,154,-5,-3.1%,39,1,2.6%
+27-Jun,Seattle,126,-28,-18.2%,30,-9,-23.1%
+28-Jun,Seattle,133,7,5.6%,30,0,0.0%
+29-Jun,Seattle,152,19,14.3%,34,4,13.3%
+30-Jun,Seattle,132,-20,-13.2%,33,-1,-2.9%
+1-Mar,Denver,167,0,0.0%,30,0,0.0%
+2-Mar,Denver,270,103,61.7%,25,-5,-16.7%
+3-Mar,Denver,225,-45,-16.7%,21,-4,-16.0%
+4-Mar,Denver,240,15,6.7%,16,-5,-23.8%
+5-Mar,Denver,251,11,4.6%,18,2,12.5%
+6-Mar,Denver,247,-4,-1.6%,24,6,33.3%
+7-Mar,Denver,207,-40,-16.2%,24,0,0.0%
+8-Mar,Denver,173,-34,-16.4%,19,-5,-20.8%
+9-Mar,Denver,225,52,30.1%,27,8,42.1%
+10-Mar,Denver,211,-14,-6.2%,19,-8,-29.6%
+11-Mar,Denver,255,44,20.9%,25,6,31.6%
+12-Mar,Denver,187,-68,-26.7%,10,-15,-60.0%
+13-Mar,Denver,220,33,17.6%,15,5,50.0%
+14-Mar,Denver,150,-70,-31.8%,19,4,26.7%
+15-Mar,Denver,161,11,7.3%,19,0,0.0%
+16-Mar,Denver,172,11,6.8%,13,-6,-31.6%
+17-Mar,Denver,134,-38,-22.1%,20,7,53.8%
+18-Mar,Denver,137,3,2.2%,18,-2,-10.0%
+19-Mar,Denver,145,8,5.8%,9,-9,-50.0%
+20-Mar,Denver,131,-14,-9.7%,15,6,66.7%
+21-Mar,Denver,115,-16,-12.2%,25,10,66.7%
+22-Mar,Denver,114,-1,-0.9%,13,-12,-48.0%
+23-Mar,Denver,143,29,25.4%,17,4,30.8%
+24-Mar,Denver,149,6,4.2%,23,6,35.3%
+25-Mar,Denver,158,9,6.0%,18,-5,-21.7%
+26-Mar,Denver,145,-13,-8.2%,10,-8,-44.4%
+27-Mar,Denver,149,4,2.8%,12,2,20.0%
+28-Mar,Denver,105,-44,-29.5%,11,-1,-8.3%
+29-Mar,Denver,133,28,26.7%,14,3,27.3%
+30-Mar,Denver,188,55,41.4%,23,9,64.3%
+31-Mar,Denver,174,-14,-7.4%,14,-9,-39.1%
+1-Apr,Denver,159,-15,-8.6%,14,0,0.0%
+2-Apr,Denver,143,-16,-10.1%,9,-5,-35.7%
+3-Apr,Denver,141,-2,-1.4%,18,9,100.0%
+4-Apr,Denver,131,-10,-7.1%,18,0,0.0%
+5-Apr,Denver,135,4,3.1%,27,9,50.0%
+6-Apr,Denver,204,69,51.1%,18,-9,-33.3%
+7-Apr,Denver,153,-51,-25.0%,22,4,22.2%
+8-Apr,Denver,181,28,18.3%,19,-3,-13.6%
+9-Apr,Denver,158,-23,-12.7%,18,-1,-5.3%
+10-Apr,Denver,176,18,11.4%,22,4,22.2%
+11-Apr,Denver,134,-42,-23.9%,17,-5,-22.7%
+12-Apr,Denver,113,-21,-15.7%,17,0,0.0%
+13-Apr,Denver,146,33,29.2%,12,-5,-29.4%
+14-Apr,Denver,151,5,3.4%,16,4,33.3%
+15-Apr,Denver,155,4,2.6%,13,-3,-18.8%
+16-Apr,Denver,165,10,6.5%,11,-2,-15.4%
+17-Apr,Denver,171,6,3.6%,16,5,45.5%
+18-Apr,Denver,163,-8,-4.7%,20,4,25.0%
+19-Apr,Denver,136,-27,-16.6%,21,1,5.0%
+20-Apr,Denver,170,34,25.0%,9,-12,-57.1%
+21-Apr,Denver,200,30,17.6%,10,1,11.1%
+22-Apr,Denver,183,-17,-8.5%,16,6,60.0%
+23-Apr,Denver,205,22,12.0%,14,-2,-12.5%
+24-Apr,Denver,162,-43,-21.0%,16,2,14.3%
+25-Apr,Denver,155,-7,-4.3%,12,-4,-25.0%
+26-Apr,Denver,138,-17,-11.0%,17,5,41.7%
+27-Apr,Denver,179,41,29.7%,27,10,58.8%
+28-Apr,Denver,178,-1,-0.6%,24,-3,-11.1%
+29-Apr,Denver,186,8,4.5%,15,-9,-37.5%
+30-Apr,Denver,177,-9,-4.8%,21,6,40.0%
+1-May,Denver,178,1,0.6%,26,5,23.8%
+2-May,Denver,171,-7,-3.9%,28,2,7.7%
+3-May,Denver,142,-29,-17.0%,23,-5,-17.9%
+4-May,Denver,221,79,55.6%,18,-5,-21.7%
+5-May,Denver,180,-41,-18.6%,17,-1,-5.6%
+6-May,Denver,207,27,15.0%,18,1,5.9%
+7-May,Denver,199,-8,-3.9%,10,-8,-44.4%
+8-May,Denver,187,-12,-6.0%,10,0,0.0%
+9-May,Denver,159,-28,-15.0%,16,6,60.0%
+10-May,Denver,137,-22,-13.8%,10,-6,-37.5%
+11-May,Denver,188,51,37.2%,16,6,60.0%
+12-May,Denver,202,14,7.4%,20,4,25.0%
+13-May,Denver,202,0,0.0%,30,10,50.0%
+14-May,Denver,205,3,1.5%,25,-5,-16.7%
+15-May,Denver,210,5,2.4%,22,-3,-12.0%
+16-May,Denver,189,-21,-10.0%,27,5,22.7%
+17-May,Denver,159,-30,-15.9%,31,4,14.8%
+18-May,Denver,208,49,30.8%,24,-7,-22.6%
+19-May,Denver,217,9,4.3%,26,2,8.3%
+20-May,Denver,200,-17,-7.8%,25,-1,-3.8%
+21-May,Denver,187,-13,-6.5%,21,-4,-16.0%
+22-May,Denver,193,6,3.2%,26,5,23.8%
+23-May,Denver,161,-32,-16.6%,24,-2,-7.7%
+24-May,Denver,148,-13,-8.1%,28,4,16.7%
+25-May,Denver,150,2,1.4%,23,-5,-17.9%
+26-May,Denver,220,70,46.7%,14,-9,-39.1%
+27-May,Denver,216,-4,-1.8%,20,6,42.9%
+28-May,Denver,229,13,6.0%,20,0,0.0%
+29-May,Denver,229,0,0.0%,18,-2,-10.0%
+30-May,Denver,255,26,11.4%,19,1,5.6%
+31-May,Denver,298,43,16.9%,25,6,31.6%
+1-Jun,Denver,316,18,6.0%,18,-7,-28.0%
+2-Jun,Denver,293,-23,-7.3%,21,3,16.7%
+3-Jun,Denver,231,-62,-21.2%,22,1,4.8%
+4-Jun,Denver,222,-9,-3.9%,22,0,0.0%
+5-Jun,Denver,196,-26,-11.7%,29,7,31.8%
+6-Jun,Denver,157,-39,-19.9%,26,-3,-10.3%
+7-Jun,Denver,140,-17,-10.8%,25,-1,-3.8%
+8-Jun,Denver,185,45,32.1%,21,-4,-16.0%
+9-Jun,Denver,168,-17,-9.2%,13,-8,-38.1%
+10-Jun,Denver,144,-24,-14.3%,21,8,61.5%
+11-Jun,Denver,199,55,38.2%,16,-5,-23.8%
+12-Jun,Denver,170,-29,-14.6%,25,9,56.3%
+13-Jun,Denver,158,-12,-7.1%,26,1,4.0%
+14-Jun,Denver,162,4,2.5%,29,3,11.5%
+15-Jun,Denver,222,60,37.0%,25,-4,-13.8%
+16-Jun,Denver,198,-24,-10.8%,22,-3,-12.0%
+17-Jun,Denver,187,-11,-5.6%,21,-1,-4.5%
+18-Jun,Denver,189,2,1.1%,18,-3,-14.3%
+19-Jun,Denver,202,13,6.9%,21,3,16.7%
+20-Jun,Denver,158,-44,-21.8%,25,4,19.0%
+21-Jun,Denver,163,5,3.2%,38,13,52.0%
+22-Jun,Denver,215,52,31.9%,25,-13,-34.2%
+23-Jun,Denver,212,-3,-1.4%,18,-7,-28.0%
+24-Jun,Denver,234,22,10.4%,20,2,11.1%
+25-Jun,Denver,238,4,1.7%,22,2,10.0%
+26-Jun,Denver,177,-61,-25.6%,26,4,18.2%
+27-Jun,Denver,160,-17,-9.6%,33,7,26.9%
+28-Jun,Denver,180,20,12.5%,47,14,42.4%
+29-Jun,Denver,222,42,23.3%,25,-22,-46.8%
+30-Jun,Denver,220,-2,-0.9%,18,-7,-28.0%
+1-Mar,Washington DC,74,0,0.0%,8,0,0.0%
+2-Mar,Washington DC,83,9,12.2%,4,-4,-50.0%
+3-Mar,Washington DC,77,-6,-7.2%,1,-3,-75.0%
+4-Mar,Washington DC,75,-2,-2.6%,3,2,200.0%
+5-Mar,Washington DC,74,-1,-1.3%,6,3,100.0%
+6-Mar,Washington DC,74,0,0.0%,2,-4,-66.7%
+7-Mar,Washington DC,79,5,6.8%,5,3,150.0%
+8-Mar,Washington DC,50,-29,-36.7%,1,-4,-80.0%
+9-Mar,Washington DC,93,43,86.0%,6,5,500.0%
+10-Mar,Washington DC,81,-12,-12.9%,7,1,16.7%
+11-Mar,Washington DC,91,10,12.3%,2,-5,-71.4%
+12-Mar,Washington DC,75,-16,-17.6%,3,1,50.0%
+13-Mar,Washington DC,75,0,0.0%,4,1,33.3%
+14-Mar,Washington DC,103,28,37.3%,5,1,25.0%
+15-Mar,Washington DC,78,-25,-24.3%,3,-2,-40.0%
+16-Mar,Washington DC,77,-1,-1.3%,4,1,33.3%
+17-Mar,Washington DC,61,-16,-20.8%,2,-2,-50.0%
+18-Mar,Washington DC,64,3,4.9%,7,5,250.0%
+19-Mar,Washington DC,41,-23,-35.9%,4,-3,-42.9%
+20-Mar,Washington DC,56,15,36.6%,5,1,25.0%
+21-Mar,Washington DC,34,-22,-39.3%,10,5,100.0%
+22-Mar,Washington DC,44,10,29.4%,3,-7,-70.0%
+23-Mar,Washington DC,50,6,13.6%,6,3,100.0%
+24-Mar,Washington DC,58,8,16.0%,8,2,33.3%
+25-Mar,Washington DC,57,-1,-1.7%,5,-3,-37.5%
+26-Mar,Washington DC,58,1,1.8%,7,2,40.0%
+27-Mar,Washington DC,45,-13,-22.4%,6,-1,-14.3%
+28-Mar,Washington DC,36,-9,-20.0%,3,-3,-50.0%
+29-Mar,Washington DC,56,20,55.6%,2,-1,-33.3%
+30-Mar,Washington DC,66,10,17.9%,3,1,50.0%
+31-Mar,Washington DC,61,-5,-7.6%,3,0,0.0%
+1-Apr,Washington DC,44,-17,-27.9%,3,0,0.0%
+2-Apr,Washington DC,39,-5,-11.4%,2,-1,-33.3%
+3-Apr,Washington DC,40,1,2.6%,2,0,0.0%
+4-Apr,Washington DC,46,6,15.0%,7,5,250.0%
+5-Apr,Washington DC,42,-4,-8.7%,2,-5,-71.4%
+6-Apr,Washington DC,58,16,38.1%,6,4,200.0%
+7-Apr,Washington DC,57,-1,-1.7%,3,-3,-50.0%
+8-Apr,Washington DC,47,-10,-17.5%,3,0,0.0%
+9-Apr,Washington DC,45,-2,-4.3%,4,1,33.3%
+10-Apr,Washington DC,42,-3,-6.7%,9,5,125.0%
+11-Apr,Washington DC,51,9,21.4%,1,-8,-88.9%
+12-Apr,Washington DC,42,-9,-17.6%,7,6,600.0%
+13-Apr,Washington DC,42,0,0.0%,5,-2,-28.6%
+14-Apr,Washington DC,61,19,45.2%,5,0,0.0%
+15-Apr,Washington DC,47,-14,-23.0%,3,-2,-40.0%
+16-Apr,Washington DC,57,10,21.3%,4,1,33.3%
+17-Apr,Washington DC,46,-11,-19.3%,1,-3,-75.0%
+18-Apr,Washington DC,26,-20,-43.5%,1,0,0.0%
+19-Apr,Washington DC,54,28,107.7%,6,5,500.0%
+20-Apr,Washington DC,44,-10,-18.5%,6,0,0.0%
+21-Apr,Washington DC,54,10,22.7%,4,-2,-33.3%
+22-Apr,Washington DC,72,18,33.3%,9,5,125.0%
+23-Apr,Washington DC,71,-1,-1.4%,9,0,0.0%
+24-Apr,Washington DC,64,-7,-9.9%,4,-5,-55.6%
+25-Apr,Washington DC,51,-13,-20.3%,5,1,25.0%
+26-Apr,Washington DC,34,-17,-33.3%,2,-3,-60.0%
+27-Apr,Washington DC,60,26,76.5%,2,0,0.0%
+28-Apr,Washington DC,75,15,25.0%,3,1,50.0%
+29-Apr,Washington DC,51,-24,-32.0%,12,9,300.0%
+30-Apr,Washington DC,55,4,7.8%,4,-8,-66.7%
+1-May,Washington DC,51,-4,-7.3%,3,-1,-25.0%
+2-May,Washington DC,33,-18,-35.3%,6,3,100.0%
+3-May,Washington DC,33,0,0.0%,6,0,0.0%
+4-May,Washington DC,64,31,93.9%,4,-2,-33.3%
+5-May,Washington DC,63,-1,-1.6%,7,3,75.0%
+6-May,Washington DC,54,-9,-14.3%,3,-4,-57.1%
+7-May,Washington DC,38,-16,-29.6%,7,4,133.3%
+8-May,Washington DC,55,17,44.7%,7,0,0.0%
+9-May,Washington DC,37,-18,-32.7%,6,-1,-14.3%
+10-May,Washington DC,59,22,59.5%,5,-1,-16.7%
+11-May,Washington DC,53,-6,-10.2%,5,0,0.0%
+12-May,Washington DC,36,-17,-32.1%,5,0,0.0%
+13-May,Washington DC,46,10,27.8%,9,4,80.0%
+14-May,Washington DC,46,0,0.0%,7,-2,-22.2%
+15-May,Washington DC,50,4,8.7%,3,-4,-57.1%
+16-May,Washington DC,49,-1,-2.0%,6,3,100.0%
+17-May,Washington DC,49,0,0.0%,3,-3,-50.0%
+18-May,Washington DC,61,12,24.5%,6,3,100.0%
+19-May,Washington DC,62,1,1.6%,6,0,0.0%
+20-May,Washington DC,80,18,29.0%,5,-1,-16.7%
+21-May,Washington DC,60,-20,-25.0%,6,1,20.0%
+22-May,Washington DC,58,-2,-3.3%,5,-1,-16.7%
+23-May,Washington DC,50,-8,-13.8%,10,5,100.0%
+24-May,Washington DC,39,-11,-22.0%,8,-2,-20.0%
+25-May,Washington DC,48,9,23.1%,3,-5,-62.5%
+26-May,Washington DC,62,14,29.2%,7,4,133.3%
+27-May,Washington DC,68,6,9.7%,9,2,28.6%
+28-May,Washington DC,58,-10,-14.7%,9,0,0.0%
+29-May,Washington DC,63,5,8.6%,9,0,0.0%
+30-May,Washington DC,31,-32,-50.8%,12,3,33.3%
+31-May,Washington DC,93,62,200.0%,8,-4,-33.3%
+1-Jun,Washington DC,178,85,91.4%,3,-5,-62.5%
+2-Jun,Washington DC,109,-69,-38.8%,10,7,233.3%
+3-Jun,Washington DC,70,-39,-35.8%,9,-1,-10.0%
+4-Jun,Washington DC,89,19,27.1%,1,-8,-88.9%
+5-Jun,Washington DC,61,-28,-31.5%,4,3,300.0%
+6-Jun,Washington DC,45,-16,-26.2%,5,1,25.0%
+7-Jun,Washington DC,57,12,26.7%,12,7,140.0%
+8-Jun,Washington DC,78,21,36.8%,8,-4,-33.3%
+9-Jun,Washington DC,68,-10,-12.8%,13,5,62.5%
+10-Jun,Washington DC,87,19,27.9%,4,-9,-69.2%
+11-Jun,Washington DC,74,-13,-14.9%,8,4,100.0%
+12-Jun,Washington DC,55,-19,-25.7%,6,-2,-25.0%
+13-Jun,Washington DC,46,-9,-16.4%,6,0,0.0%
+14-Jun,Washington DC,74,28,60.9%,6,0,0.0%
+15-Jun,Washington DC,74,0,0.0%,4,-2,-33.3%
+16-Jun,Washington DC,81,7,9.5%,5,1,25.0%
+17-Jun,Washington DC,51,-30,-37.0%,6,1,20.0%
+18-Jun,Washington DC,53,2,3.9%,2,-4,-66.7%
+19-Jun,Washington DC,41,-12,-22.6%,4,2,100.0%
+20-Jun,Washington DC,53,12,29.3%,4,0,0.0%
+21-Jun,Washington DC,61,8,15.1%,5,1,25.0%
+22-Jun,Washington DC,65,4,6.6%,8,3,60.0%
+23-Jun,Washington DC,77,12,18.5%,3,-5,-62.5%
+24-Jun,Washington DC,68,-9,-11.7%,4,1,33.3%
+25-Jun,Washington DC,68,0,0.0%,9,5,125.0%
+26-Jun,Washington DC,40,-28,-41.2%,7,-2,-22.2%
+27-Jun,Washington DC,49,9,22.5%,8,1,14.3%
+28-Jun,Washington DC,69,20,40.8%,6,-2,-25.0%
+29-Jun,Washington DC,62,-7,-10.1%,12,6,100.0%
+30-Jun,Washington DC,74,12,19.4%,10,-2,-16.7%
